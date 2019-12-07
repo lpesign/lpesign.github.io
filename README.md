@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+### 깃허브 블로그 개설
 
-You can use the [editor on GitHub](https://github.com/lpesign/lpesign.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+회사를 때려치고 앱 개발 하는 도중
+개인정보 처리 방침 url 이 필요하게 되었다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+근데 난 도메인이 없잖아
 
-### Markdown
+티스토리 블로그도 있긴한데 관리 안한지 너무 오래..
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+그럼 어디에 올리지?
 
-```markdown
-Syntax highlighted code block
+### 깃허브있네
 
-# Header 1
-## Header 2
-### Header 3
+그리고 급하게 만들었다. 클릭 몇번하니 생성
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lpesign/lpesign.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+갓허브
