@@ -1,6 +1,6 @@
 ## Privacy Policy
 
-smashcode built the [App Name]Solitaire :: FreeCell app as an Ad Supported app. This SERVICE is provided by smashcode at no cost and is intended for use as is.
+smashcode built the Solitaire :: FreeCell app as an Ad Supported app. This SERVICE is provided by smashcode at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
