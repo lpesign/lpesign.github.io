@@ -14,3 +14,6 @@
 그리고 급하게 만들었다. 클릭 몇번하니 생성
 
 갓허브
+
+
+[개인정보처리 URL 완료](https://lpesign.github.io/privacy/privacy_policy)
