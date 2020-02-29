@@ -17,10 +17,10 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 *   [Firebase Analytics](https://firebase.google.com/policies/analytics)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Facebook Audience Network](https://www.facebook.com/business/gdpr)
+*   [applovin](https://www.applovin.com/privacy/)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 
 **Log Data**
